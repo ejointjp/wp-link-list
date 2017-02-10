@@ -1,0 +1,183 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WP Link List\n"
+"POT-Creation-Date: 2017-02-10 12:27+0900\n"
+"PO-Revision-Date: 2017-02-10 12:27+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wp-link-list.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wp-link-list.php:112
+msgid "Do not use default CSS"
+msgstr ""
+
+#: wp-link-list.php:113
+msgid "Link list orderby"
+msgstr ""
+
+#: wp-link-list.php:114
+msgid "Link list order"
+msgstr ""
+
+#: wp-link-list.php:115
+msgid "Value of target attribute"
+msgstr ""
+
+#: wp-link-list.php:116
+msgid "Display"
+msgstr ""
+
+#: wp-link-list.php:117
+msgid "Use Balloon"
+msgstr ""
+
+#: wp-link-list.php:118
+msgid "Size of thumbnail"
+msgstr ""
+
+#: wp-link-list.php:149
+msgid "Please paste the short code below into the place you want to output."
+msgstr ""
+
+#: wp-link-list.php:164
+msgid "By numerical order of \"order\""
+msgstr ""
+
+#: wp-link-list.php:165
+msgid "By Title"
+msgstr ""
+
+#: wp-link-list.php:166
+msgid "By post date"
+msgstr ""
+
+#: wp-link-list.php:173
+msgid "ASC"
+msgstr ""
+
+#: wp-link-list.php:174
+msgid "DESC"
+msgstr ""
+
+#: wp-link-list.php:181
+msgid "None"
+msgstr ""
+
+#: wp-link-list.php:189
+msgid "Title only"
+msgstr ""
+
+#: wp-link-list.php:190
+msgid "Title and thumbnail"
+msgstr ""
+
+#: wp-link-list.php:191
+msgid "Title and description"
+msgstr ""
+
+#: wp-link-list.php:192
+msgid "Title, thumbnail and description"
+msgstr ""
+
+#: wp-link-list.php:200
+msgid "Display on top"
+msgstr ""
+
+#: wp-link-list.php:201
+msgid "Display on left"
+msgstr ""
+
+#: wp-link-list.php:202
+msgid "Display on right"
+msgstr ""
+
+#: wp-link-list.php:203
+msgid "Display on bottom"
+msgstr ""
+
+#: wp-link-list.php:206
+msgid ""
+"Balloon display of the description of the list Valid when \"Display\" "
+"setting is \"Title only list format\" \"Title and thumbnail\"."
+msgstr ""
+
+#: wp-link-list.php:247 wp-link-list.php:259
+msgid "Links"
+msgstr ""
+
+#: wp-link-list.php:248
+msgid "Link"
+msgstr ""
+
+#: wp-link-list.php:249
+msgid "Add New"
+msgstr ""
+
+#: wp-link-list.php:250
+msgid "Add new Link"
+msgstr ""
+
+#: wp-link-list.php:251
+msgid "Edit Link"
+msgstr ""
+
+#: wp-link-list.php:252
+msgid "New Link"
+msgstr ""
+
+#: wp-link-list.php:253
+msgid "All Links"
+msgstr ""
+
+#: wp-link-list.php:254
+msgid "View Link"
+msgstr ""
+
+#: wp-link-list.php:255
+msgid "Search Link"
+msgstr ""
+
+#: wp-link-list.php:256
+msgid "Link not found"
+msgstr ""
+
+#: wp-link-list.php:257
+msgid "Link not found in Trash"
+msgstr ""
+
+#: wp-link-list.php:285
+msgid "Settings of Link"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP Link List"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://e-joint.jp/works/wp-link-list/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WP Link List is shortcode base generate link list plugin."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "e-JOINT.jp"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://e-joint.jp"
+msgstr ""

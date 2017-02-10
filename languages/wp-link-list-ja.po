@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WP Link List v0.1\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2017-02-03 17:08+0900\n"
+"POT-Creation-Date: 2017-02-10 12:27+0900\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: e-JOINT.jp <mail@e-joint.jp>\n"
@@ -24,96 +24,96 @@ msgstr ""
 "X-Generator: Poedit 1.8.11\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: wp-link-list.php:107
+#: wp-link-list.php:112
 msgid "Do not use default CSS"
 msgstr "デフォルトのCSSを使わない"
 
-#: wp-link-list.php:108
+#: wp-link-list.php:113
 msgid "Link list orderby"
 msgstr "リンクリストの並び順の基準"
 
-#: wp-link-list.php:109
+#: wp-link-list.php:114
 msgid "Link list order"
 msgstr "リンクリストの並び順"
 
-#: wp-link-list.php:110
+#: wp-link-list.php:115
 msgid "Value of target attribute"
 msgstr "ターゲット属性の値"
 
-#: wp-link-list.php:111
+#: wp-link-list.php:116
 msgid "Display"
 msgstr "表示"
 
-#: wp-link-list.php:112
+#: wp-link-list.php:117
 msgid "Use Balloon"
 msgstr "バルーンを表示する"
 
-#: wp-link-list.php:113
+#: wp-link-list.php:118
 msgid "Size of thumbnail"
 msgstr "サムネイルのサイズ"
 
-#: wp-link-list.php:144
+#: wp-link-list.php:149
 msgid "Please paste the short code below into the place you want to output."
 msgstr ""
 "下のショートコードを、リンクリストを出力したい場所に貼り付けてください。"
 
-#: wp-link-list.php:159
+#: wp-link-list.php:164
 msgid "By numerical order of \"order\""
 msgstr "「順序」の数値順"
 
-#: wp-link-list.php:160
+#: wp-link-list.php:165
 msgid "By Title"
 msgstr "タイトル順"
 
-#: wp-link-list.php:161
+#: wp-link-list.php:166
 msgid "By post date"
 msgstr "投稿順"
 
-#: wp-link-list.php:168
+#: wp-link-list.php:173
 msgid "ASC"
 msgstr "昇順"
 
-#: wp-link-list.php:169
+#: wp-link-list.php:174
 msgid "DESC"
 msgstr "降順"
 
-#: wp-link-list.php:176
+#: wp-link-list.php:181
 msgid "None"
 msgstr "なし"
 
-#: wp-link-list.php:184
+#: wp-link-list.php:189
 msgid "Title only"
 msgstr "タイトルのみのリスト表示"
 
-#: wp-link-list.php:185
+#: wp-link-list.php:190
 msgid "Title and thumbnail"
 msgstr "タイトルとサムネイル"
 
-#: wp-link-list.php:186
+#: wp-link-list.php:191
 msgid "Title and description"
 msgstr "タイトルと説明文"
 
-#: wp-link-list.php:187
+#: wp-link-list.php:192
 msgid "Title, thumbnail and description"
 msgstr "タイトルとサムネイルと説明文"
 
-#: wp-link-list.php:195
+#: wp-link-list.php:200
 msgid "Display on top"
 msgstr "上に表示"
 
-#: wp-link-list.php:196
+#: wp-link-list.php:201
 msgid "Display on left"
 msgstr "左に表示"
 
-#: wp-link-list.php:197
+#: wp-link-list.php:202
 msgid "Display on right"
 msgstr "右に表示"
 
-#: wp-link-list.php:198
+#: wp-link-list.php:203
 msgid "Display on bottom"
 msgstr "下に表示"
 
-#: wp-link-list.php:201
+#: wp-link-list.php:206
 msgid ""
 "Balloon display of the description of the list Valid when \"Display\" "
 "setting is \"Title only list format\" \"Title and thumbnail\"."
@@ -121,53 +121,73 @@ msgstr ""
 "リストの説明文をバルーン表示します｡「表示」の設定が「タイトルのみのリスト"
 "形式」「タイトルとサムネイル」の場合に有効です｡"
 
-#: wp-link-list.php:242 wp-link-list.php:254
+#: wp-link-list.php:247 wp-link-list.php:259
 msgid "Links"
 msgstr "リンク"
 
-#: wp-link-list.php:243
+#: wp-link-list.php:248
 msgid "Link"
 msgstr "リンク"
 
-#: wp-link-list.php:244
+#: wp-link-list.php:249
 msgid "Add New"
 msgstr "リンクを追加"
 
-#: wp-link-list.php:245
+#: wp-link-list.php:250
 msgid "Add new Link"
 msgstr "新規リンクを作成"
 
-#: wp-link-list.php:246
+#: wp-link-list.php:251
 msgid "Edit Link"
 msgstr "リンクを編集"
 
-#: wp-link-list.php:247
+#: wp-link-list.php:252
 msgid "New Link"
 msgstr "新規リンク"
 
-#: wp-link-list.php:248
+#: wp-link-list.php:253
 msgid "All Links"
 msgstr "リンク一覧"
 
-#: wp-link-list.php:249
+#: wp-link-list.php:254
 msgid "View Link"
 msgstr "リンクを表示"
 
-#: wp-link-list.php:250
+#: wp-link-list.php:255
 msgid "Search Link"
 msgstr "リンクを検索"
 
-#: wp-link-list.php:251
+#: wp-link-list.php:256
 msgid "Link not found"
 msgstr "リンクが見つかりませんでした"
 
-#: wp-link-list.php:252
+#: wp-link-list.php:257
 msgid "Link not found in Trash"
 msgstr "ゴミ箱にリンクが見つかりませんでした"
 
-#: wp-link-list.php:280
+#: wp-link-list.php:285
 msgid "Settings of Link"
 msgstr "リンク設定"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Link List"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://e-joint.jp/works/wp-link-list/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WP Link List is shortcode base generate link list plugin."
+msgstr "リンク集をショートコードで作成できるWordPressプラグインです｡"
+
+#. Author of the plugin/theme
+msgid "e-JOINT.jp"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://e-joint.jp"
+msgstr ""
 
 #~ msgid "All Items"
 #~ msgstr "全て"

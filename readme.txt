@@ -4,7 +4,7 @@ Donate link:
 Tags: link, shortcode
 Requires at least: 4.0
 Tested up to: 4.7.2
-Stable tag: 0.1.5
+Stable tag: 0.1.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,8 +33,8 @@ WP Link Listは､ショートコードを使ってリンク集を作成でき�
 
 == Installation ==
 
-1. Upload `wp-link-list` folder to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
+1. Upload `wp-link-list` folder to the `/wp-content/plugins/` directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. You can create a Link List by setting page.
 
 == Frequently asked questions ==
