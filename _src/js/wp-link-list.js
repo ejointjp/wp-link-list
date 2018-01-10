@@ -1,4 +1,7 @@
-jQuery(function(){
+// let jQuery = require('jquery')
+require('jquery-validation')
+
+jQuery(function () {
   jQuery('.post-type-links #post').validate({
     rules: {
       'wpll-url': {
@@ -12,5 +15,5 @@ jQuery(function(){
         url: 'URLの形式が正しくありません'
       }
     }
-  });
-});
+  })
+})

@@ -221,9 +221,9 @@ class Wp_link_list
 
   //管理画面用CSS,JSの読み込み
   public function add_admin_css_js(){
-    wp_enqueue_script('jquery-validate', plugins_url('js/jquery.validate.min.js', __FILE__), array('jquery'), '1.16.0', false);
-    wp_enqueue_script('scripts', plugins_url('js/scripts.js', __FILE__), array('jquery'), self::VERSION, false);
-    wp_enqueue_style('wpll', plugins_url('css/admin.css', __FILE__), '', self::VERSION);
+    // wp_enqueue_script('jquery-validate', plugins_url('js/jquery.validate.min.js', __FILE__), array('jquery'), '1.16.0', false);
+    wp_enqueue_script('wpll-js', plugins_url('assets/js/wp-link-list.js', __FILE__), array('jquery'), self::VERSION, false);
+    wp_enqueue_style('wpll-css-admin', plugins_url('assets/css/admin.css', __FILE__), '', self::VERSION);
   }
 
   //リストのCSSの読み込み
@@ -232,11 +232,11 @@ class Wp_link_list
     $this->options =  get_option('wpll-setting');
 
     if(!$this->options['nocss']){
-      wp_enqueue_style('wpll', plugins_url('css/style.css', __FILE__), '', self::VERSION);
+      wp_enqueue_style('wpll-css', plugins_url('assets/css/wp-link-list.css', __FILE__), '', self::VERSION);
     }
 
     if($this->options['balloon']){
-      wp_enqueue_style('balloon', plugins_url('css/balloon.min.css', __FILE__), '', '0.4.0');
+      wp_enqueue_style('wpll-css-balloon', plugins_url('assets/css/balloon.css', __FILE__), '', self::VERSION);
     }
   }
 
