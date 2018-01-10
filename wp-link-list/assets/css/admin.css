@@ -1,1 +1,18 @@
-.wpll-field [type=text]{width:100%}.wpll-field label{display:block;width:100%;margin-bottom:5px}.wpll-field textarea{width:100%}.wpll-field .error{color:#d22}
+.wpll-field [type="text"] {
+  width: 100%;
+}
+
+.wpll-field label {
+  display: block;
+  width: 100%;
+  margin-bottom: 8px;
+}
+
+.wpll-field textarea {
+  width: 100%;
+}
+
+.wpll-field .error {
+  color: #d22;
+}
+

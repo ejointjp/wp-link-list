@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WP Link List v0.1\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2017-02-10 12:27+0900\n"
+"POT-Creation-Date: 2018-01-10 15:14+0900\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: e-JOINT.jp <mail@e-joint.jp>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,"
 "_nc:4c,1,2\n"
 "X-Poedit-Basepath: ..\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 1.8.12\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: wp-link-list.php:112
@@ -169,25 +169,12 @@ msgstr "ゴミ箱にリンクが見つかりませんでした"
 msgid "Settings of Link"
 msgstr "リンク設定"
 
-#. Plugin Name of the plugin/theme
-msgid "WP Link List"
-msgstr ""
+#: wp-link-list.php:301
+msgid "Description"
+msgstr "説明文"
 
-#. Plugin URI of the plugin/theme
-msgid "http://e-joint.jp/works/wp-link-list/"
-msgstr ""
-
-#. Description of the plugin/theme
-msgid "WP Link List is shortcode base generate link list plugin."
-msgstr "リンク集をショートコードで作成できるWordPressプラグインです｡"
-
-#. Author of the plugin/theme
-msgid "e-JOINT.jp"
-msgstr ""
-
-#. Author URI of the plugin/theme
-msgid "http://e-joint.jp"
-msgstr ""
+#~ msgid "WP Link List is shortcode base generate link list plugin."
+#~ msgstr "リンク集をショートコードで作成できるWordPressプラグインです｡"
 
 #~ msgid "All Items"
 #~ msgstr "全て"

@@ -1,4 +1,3 @@
-// let jQuery = require('jquery')
 require('jquery-validation')
 
 jQuery(function () {
@@ -11,8 +10,8 @@ jQuery(function () {
     },
     messages: {
       'wpll-url': {
-        required: '必ず入力してください',
-        url: 'URLの形式が正しくありません'
+        required: 'URL is required. URLは必ず入力してください。',
+        url: 'URL format is invalid. URLの形式が正しくありません。'
       }
     }
   })

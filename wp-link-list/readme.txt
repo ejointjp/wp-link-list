@@ -3,8 +3,8 @@ Contributors: ejointjp
 Donate link:
 Tags: link, shortcode
 Requires at least: 4.0
-Tested up to: 4.7.2
-Stable tag: 0.1.6
+Tested up to: 4.9.1
+Stable tag: 0.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,9 +33,20 @@ WP Link Listは､ショートコードを使ってリンク集を作成でき�
 
 == Installation ==
 
-1. Upload `wp-link-list` folder to the `/wp-content/plugins/` directory.
-2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. You can create a Link List by setting page.
+1. Get "WP Link List" from "Plugins > New add" on the WordPress dashboard.
+2. Activate this.
+3. You can configuration the link in "Setting > WP Link List" page.
+4. Create a link from the "Link > Add New".
+5. Paste the short code `[link-list]` to the place where you want to display the link list.
+
+= インストール =
+
+1. 「プラグイン > 新規追加」から「WP Thumbnail Linkbox Shortcode」を入手します。
+2. プラグインを有効化します｡
+3. 「設定 > WP Link List」でリンクの設定ができます。
+4. 「リンク > 新規追加」でリンクを作成します。
+5. リンクリストを表示させたい場所に、ショートコード `[link-list]` を貼り付けします。
+
 
 == Frequently asked questions ==
 
@@ -52,11 +63,15 @@ An answer to that question.
 
 == Changelog ==
 
-= 0.1.5 -
+= 0.2.0 =
+* The css and scss directories have changed.
+* cssおよびscssのディレクトリが変更になりました。
+
+= 0.1.5 =
 * Bug Fix.
 
 = 0.1.4 =
-*Bug Fix.
+* Bug Fix.
 
 = 0.1.3 =
 * Bug Fix.
@@ -69,3 +84,10 @@ An answer to that question.
 
 = 0.1 =
 * Initial release.
+
+
+== Upgrade notice ==
+
+= 0.2.0 =
+* The css and scss directories have changed.
+* cssおよびscssのディレクトリが変更になりました。

@@ -3,7 +3,7 @@
 Plugin Name: WP Link List
 Plugin URI: http://e-joint.jp/works/wp-link-list/
 Description: WP Link List is shortcode base generate link list plugin.
-Version: 0.1.6
+Version: 0.2.0
 Author: e-JOINT.jp
 Author URI: http://e-joint.jp
 Text Domain: wp-link-list
@@ -31,7 +31,7 @@ class Wp_link_list
 {
 
   private $options;
-  const VERSION = '0.1.6';
+  const VERSION = '0.2.0';
 
   public function __construct()
   {
@@ -298,7 +298,7 @@ class Wp_link_list
     $html .= '</p>';
     $html .= '<p>';
     $html .= '<label for="wpll-description">';
-    $html .= '<span><strong>説明文</span>';
+    $html .= '<span><strong>' . __('Description', 'wp-link-list') . '</span>';
     $html .= '<textarea name="wpll-description" rows="3">';
     $html .= get_post_meta($post->ID, 'wpll-description', true);
     $html .= '</textarea>';
